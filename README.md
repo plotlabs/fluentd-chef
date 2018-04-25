@@ -1,12 +1,13 @@
-# fluentd
+# fluentd chef cookbook
 
-Please follow the following link to use this cookbook with your chef-client
-https://medium.com/@saurabhgupta_43828/fluentd-cookbook-for-chefs-a4121d955d9e
+Please follow the [blog](https://medium.com/@saurabhgupta_43828/fluentd-cookbook-for-chefs-a4121d955d9e
+) to use this cookbook with your chef-client
+
 
 Fluentd Cookbook for Chefs
 Often you find yourself in a situation, where finding bugs becomes a tedious process and you start looking for some central logging solution. Now, fluentd might be the first choice for such situations, but setting it up is really painful and time taking. Therefore, following is a guide to setup fluentd on your systems using a chef development kit and the cookbook code at the following link:
 
-https://github.com/plotlabs/chef-cookbooks/tree/master/fluentd
+https://github.com/plotlabs/fluentd-chef
 
 First of all, you need to install the Chef Development Kit from the official website: https://downloads.chef.io/chefdk
 
