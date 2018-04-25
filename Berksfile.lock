@@ -1,0 +1,7 @@
+DEPENDENCIES
+  fluentd
+    path: .
+    metadata: true
+
+GRAPH
+  fluentd (0.1.0)
